@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681056410 source:c:\users\eleudson\develop\github\bcc-pre\007-strings\main.c
+	<stdio.h>
+	<string.h>
+
