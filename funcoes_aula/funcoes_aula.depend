@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683924546 source:c:\users\eleudson\develop\github\bcc-pre\funcoes_aula\main.c
+	<stdio.h>
+	<locale.h>
+
