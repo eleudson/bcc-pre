@@ -15,10 +15,10 @@ int soma(int a, int b)
     return s;
 }
 
-void inverte(int *a, int *b)
+void inverte(int *x, int *y)
 {
     int tmp;
-    tmp = *a;
-    *a = *b;
-    *b = tmp;
+    tmp = *x;
+    *x = *y;
+    *y = tmp;
 }
